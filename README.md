@@ -1,1 +1,1 @@
-# CSCI5525MachineLearningII
+# CSCI5525MachineLearning
